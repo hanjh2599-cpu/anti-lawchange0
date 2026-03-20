@@ -432,7 +432,7 @@
       <div class="card-title">왜 반대해야 합니까?</div>
     </div>
     <div class="card-body">
-      <p>해당 개정안은 약물 복용 후 운전 시 사고가 발생할 경우, <strong>약국에 과도한 책임을 전가</strong>할 수 있는 독소조항을 포함하고 있습니다.</p>
+      <p>해당 개정안은 약물 복용 후 운전 시 사고가 발생할 경우, <strong>약국에 과도한 책임을 전가</strong>할 수 있는 조항을 포함하고 있습니다.</p>
 
       <ul class="danger-list">
         <li>
